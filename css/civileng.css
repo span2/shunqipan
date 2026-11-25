@@ -1,0 +1,166 @@
+/*
+ *   For Civil Engineering Department Only
+ *
+ *************************************************/
+.tabh {
+	border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF; font-size: 100%;
+	color: #000000;
+	background: #CCFFFF url('../images/corner_bottom_leftS.gif') no-repeat right top;
+	clear: both;
+	position: relative;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	margin-left:8px;
+	margin-right:8px;
+	margin-top:0;
+	margin-bottom:1ex;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:2px;
+	padding-bottom:2px;
+	clip:    rect(auto auto auto auto);
+	text-align: center
+	font-weight: bold; font-weight:bold
+}
+.tabc {
+	font-size: 100%;
+	color: #CCFFCC;
+	background: #FF6633 url("../images/corner_bottom_leftS.gif") no-repeat right top;
+	clear: both;
+	position: relative;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	margin-left:2px;
+	margin-right:2px;
+	margin-top:0;
+	margin-bottom:1ex;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:2px;
+	padding-bottom:2px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+
+
+}
+
+tabh strong {
+	background-color: #339;
+}
+.tabt {
+	border: 5px solid #FFFFFF;
+}
+.tabct {
+	font-size: 100%;
+	color: #000FFF;
+	background: #0FFFFF no-repeat -2px top;
+	clear: both;
+	position: relative;
+	z-index: 10;
+	top: 0;
+	left: auto;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0;
+	margin-bottom:1ex;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:2px;
+	padding-bottom:2px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	right: auto;
+
+
+}
+.label1 {
+	font-size: 100%;
+	color: #000000;
+	background: #FFCC99 no-repeat left top;
+	position: relative;
+	z-index: 5;
+	font-weight: bold;
+	padding: 4px;
+	margin: 0;
+	visibility: inherit;
+	left: auto;
+	top: auto;
+}
+
+    .red {color:red}
+    .author {color:blue; cursor:hand; font-size:9pt}
+    .indent {margin-left:0in; font-size:9pt}
+
+.SectionBar {
+	color:#6600cc;
+	cursor:hand;
+	font-size:100%;
+	background-repeat: no-repeat;
+	background-position: right top;
+	font-weight: bold;
+	background-color: #CCFFFF;
+	position: static;
+	z-index: 10;
+	width: 100%;
+}
+
+.menu {
+	font-size: 100%;
+	color: #000000;
+	background: #FFCC99 url("../../images/corner_bottom_leftS.gif") no-repeat right top;
+	clear: both;
+	position: static;
+	z-index: auto;
+	top: auto;
+	left: auto;
+	clip:        rect(auto,auto,auto,auto);
+	width: 100%;
+	margin: 0;
+	padding: 2px;
+	cursor: hand;
+	filter: BlendTrans(Duration=10);
+	font-weight: bold;
+	right: auto;
+	bottom: auto;
+
+
+
+
+
+}
+.submenu {
+
+	font-size: 90%;
+	color: #000000;
+	background: no-repeat right top;
+	clear: both;
+	position: static;
+	z-index: auto;
+	top: auto;
+	left: auto;
+	clip:        rect(auto,auto,auto,auto);
+	width: 100%;
+	margin: 0;
+	padding: 1px 3px 5px;
+	cursor: hand;
+	filter: BlendTrans(Duration=10);
+	font-weight: lighter;
+	right: auto;
+	bottom: auto;
+}
